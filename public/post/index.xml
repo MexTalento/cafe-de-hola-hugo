@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Café de Hola</title>
+    <link>http://cafedehola.com/post/index.xml</link>
+    <description>Recent content in Posts on Café de Hola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Mon, 20 Mar 2017 17:50:31 -0700</lastBuildDate>
+    <atom:link href="http://cafedehola.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Dinámica</title>
+      <link>http://cafedehola.com/post/dinamica/</link>
+      <pubDate>Mon, 20 Mar 2017 17:50:31 -0700</pubDate>
+      
+      <guid>http://cafedehola.com/post/dinamica/</guid>
+      <description>
+
+&lt;p&gt;Bienvenido a Café de Hola, donde reunimos a Emprendedores, Estudiantes y Profesionistas con Expertos Mexicanos dirigiendo o colaborando en empresas líderes del Silicon Valley y San Francisco.&lt;/p&gt;
+
+&lt;p&gt;La dinámica de este programa es la siguiente:&lt;/p&gt;
+
+&lt;h2 id=&#34;como-mentor&#34;&gt;Como Mentor:&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Llena este formulario con tus datos y selecciona tus áreas de Experiencia y/o Interés&lt;/li&gt;
+&lt;li&gt;Cada semana te mandaremos un correo preguntando tu disponibilidad para hablar con un Mentee durante 30 minutos (la reunión puede ser en persona o en línea)&lt;/li&gt;
+&lt;li&gt;Nosotros nos encargamos de hacer el Matchmaking y te mandamos una confirmación cuando el Mentee acepte la reunión&lt;/li&gt;
+&lt;li&gt;Te reunes con tu Mentee&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;como-mentee&#34;&gt;Como Mentee:&lt;/h2&gt;
+
+&lt;p&gt;Llena este formulario con tus datos y selecciona tus áreas de Experiencia y/o Interés
+Cada semana te mandaremos un correo para coordinar una reunión con un Mentor experto en esas áreas durante 30 minutos (la reunión puede ser en persona o en línea dependiendo de tu ubicación y su disponibilidad).
+Te mandamos un correo confirmando la cita
+Te reunes con tu Mentor&lt;/p&gt;
+
+&lt;h3 id=&#34;así-de-sencillo&#34;&gt;Así de sencillo.&lt;/h3&gt;
+
+&lt;p&gt;Cualquier pregunta, favor de dejar mensaje en:
+&lt;a href=&#34;https://www.facebook.com/groups/redglobalmxsf/&#34;&gt;https://www.facebook.com/groups/redglobalmxsf/&lt;/a&gt;
+o mandar correo a hola @ cafedehola.com&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

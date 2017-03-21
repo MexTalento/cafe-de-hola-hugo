@@ -1,4 +1,4 @@
 languageCode = "es-mx"
 title = "Café de Hola"
 baseURL = "http://cafedehola.com/"
-theme = "startbootstrap-clean-blog"
+theme = "hugo-strata-theme"
